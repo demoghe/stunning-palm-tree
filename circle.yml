@@ -1,4 +1,4 @@
 test:
   override:
-    java --version
+    - java --version
     
